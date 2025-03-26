@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sujit154
-- 👀 I’m Not interested in  coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sujitgupta1347@gmail.com
